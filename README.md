@@ -1,0 +1,1 @@
+a simple ML project to predict rental prices.
