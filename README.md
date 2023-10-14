@@ -5,7 +5,7 @@ Credit to the [Data Science Working Group](http://datascience.codeforsanfrancisc
 Begin reading `instructions.md` to get started.
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is to determine appropriate charges for rental properties recently acquired by a real estate company in Taipei City. This is in order to maximize the rental income while still ethically charging accurate prices to potential tenants. This will also help with tenant satisfaction and retention if they are paying a reasonable and fair price while avoiding any legal issues that may arise from overcharging. In essense this project will help with financial success, legal compliance and tenant satisfaction for the newly aquired rental properties in Teipei City.
 
 ### Methods Used
 * Inferential Statistics
